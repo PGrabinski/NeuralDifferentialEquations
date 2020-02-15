@@ -10,5 +10,4 @@ Based mostly on reproduced publications:
 
 Other experiments can be found in [the repository](https://github.com/PGrabinski/NNDE_Experiment).
 
-The estimated date of the thesis defence is 30.05.2019.
-Soon, its text should appear in this repository together with gathered code for the obtained results.
+The thesis should be defended as soon as the formalities allow.
